@@ -1,0 +1,7 @@
+
+{
+  "name": "MY TV BOX",
+  "version": "1.0.0",
+  "parameter": "menu:https://ivanovlyubomir03-max.github.io/iptv-token-manager/msx/content.json",
+  "welcome": "menu"
+}
