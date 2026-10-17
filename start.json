@@ -1,0 +1,6 @@
+{
+  "name": "MY TV BOX",
+  "version": "1.0.0",
+  "parameter": "menu:https://ivanovlyubomir03-max.github.io/msx/content.json",
+  "welcome": "menu"
+}
