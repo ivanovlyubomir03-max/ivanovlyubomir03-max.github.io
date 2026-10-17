@@ -1,0 +1,33 @@
+
+{
+  "name": "MY TV BOX",
+  "version": "1.0.0",
+  "type": "pages",
+  "headline": "MY TV BOX — Българска телевизия и филми",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,5,3",
+    "icon": "msx-white-soft:play",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "🇧🇬 Български канали",
+      "description": "GledaiTV.live",
+      "icon": "msx-white-soft:live",
+      "action": "link:window:https://www.gledaitv.live/"
+    },
+    {
+      "title": "🎬 Филми и сериали",
+      "description": "Filmizip",
+      "icon": "msx-white-soft:video",
+      "action": "link:window:https://filmizip.com/"
+    },
+    {
+      "title": "MY TV BOX",
+      "description": "Пълен портал",
+      "icon": "msx-white-soft:home",
+      "action": "link:window:https://iptv-token-manager.vercel.app/tvbox/"
+    }
+  ]
+}
